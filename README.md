@@ -1,5 +1,4 @@
 ## Hey! I am Victor Carvalho 👋
-#### My name is Victor Carvalho :frowning_man:
 #### Academic Software Engineer :writing_hand:
 #### Front-End developer :technologist:
 <div>
