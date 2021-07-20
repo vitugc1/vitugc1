@@ -1,6 +1,7 @@
 ## Hey! I am Victor Carvalho 👋
 #### Academic Software Engineer :writing_hand:
 #### Front-End developer :technologist:
+#### Contact email: victorcarvalho13022002@gmail.com
 <div>
   <a href="https://github.com/vitugc1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitugc1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
