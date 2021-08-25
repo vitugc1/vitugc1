@@ -4,8 +4,8 @@
 #### Contact email: victorcarvalho13022002@gmail.com
 <div>
   <a href="https://github.com/vitugc1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitugc1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitugc1&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitugc1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitugc1&layout=compact&langs_count=16&theme=dark"/>
 <div>
 <div>
     <h2>Connect with me:</h2>
@@ -22,13 +22,11 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30px" width="40px"style="display: inline-block;" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30px" width="40px" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30px" width="40px" />
- </div>
- <div>
-   <h2>Studying Skills:<h2>
-   <img height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+     <img height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
    <img height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" />
    <img height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
  </div>
+ 
  
   
       
