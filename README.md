@@ -1,4 +1,4 @@
-## Hey! I am Victor Carvalho 👋
+## Hello! I am Victor Carvalho 👋
 #### Academic Software Engineer :writing_hand:
 #### Front-End developer :technologist:
 #### Contact email: victorcarvalho13022002@gmail.com
